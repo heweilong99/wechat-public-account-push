@@ -65,7 +65,7 @@ export const config = {
       city: "",
       horoscopeDate: '',
       horoscopeDateType: '',
-      openUrl: "https://wangxinleo.cn",
+      openUrl: "http://he.iotxfd.cn,
       festivals: [],
       customizedDateList: []
     },
@@ -77,7 +77,7 @@ export const config = {
       city: "",
       horoscopeDate: '',
       horoscopeDateType: '',
-      openUrl: "https://wangxinleo.cn",
+      openUrl: "http://he.iotxfd.cn",
       festivals: [],
       customizedDateList: []
     },
@@ -89,7 +89,7 @@ export const config = {
       city: "",
       horoscopeDate: '',
       horoscopeDateType: '',
-      openUrl: "https://wangxinleo.cn",
+      openUrl: "http://he.iotxfd.cn",
       festivals: [],
       customizedDateList: []
     },
