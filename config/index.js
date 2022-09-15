@@ -65,7 +65,7 @@ export const config = {
       city: "",
       horoscopeDate: '',
       horoscopeDateType: '',
-      openUrl: "http://he.iotxfd.cn,
+      openUrl: "http://he.iotxfd.cn",
       festivals: [],
       customizedDateList: []
     },
